@@ -1,0 +1,390 @@
+[
+    {
+        "id":0,
+        "created_date":"2024-01-19 03:14:30.799078",
+        "name":"Sunday Special",
+        "color":"#4f2134",
+        "image":"assets\/catagery\/fresh-vegetable.jpg",
+        "percentOff":20.0,
+        "is_active":0
+    },
+    {
+        "id":1,
+        "created_date":"2020-08-25 12:46:57.616822",
+        "name":"Fresh Vegetables",
+        "color":"#F5C851",
+        "image":"assets\/catagery\/fresh-vegetable.jpg",
+        "percentOff":68.89,
+        "is_active":1
+    },
+    
+    {
+        "id":2,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Fresh Fruits",
+        "color":"#005b96",
+        "image":"assets\/catagery\/fresh-fruits.jpg",
+        "percentOff":53.33,
+        "is_active":1
+    },
+    {
+        "id":3,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Foodgrains, Oil & Masala",
+        "color":"#b3cde0",
+        "image":"assets\/catagery\/foodgrains-oil-masala.jpg",
+        "percentOff":50.0,
+        "is_active":1
+    },
+    {
+        "id":4,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Atta , Flour & Daliya",
+        "color":"#6497b1",
+        "image":"assets\/catagery\/atta-flour-daliya.jpg",
+        "percentOff":50.0,
+        "is_active":1
+    },
+    {
+        "id":5,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Bakery, Cakes & Dairy",
+        "color":"#ece1ca",
+        "image":"assets\/catagery\/bakery-cakes.jpg",
+        "percentOff":42.42,
+        "is_active":1
+    },
+    {
+        "id":6,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Sauce, Spreads & Dips",
+        "color":"#372d4f",
+        "image":"assets\/catagery\/sauce-spreads-dips.jpg",
+        "percentOff":39.29,
+        "is_active":1
+    },
+    {
+        "id":7,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Soups, Noodles & Pasta",
+        "color":"#e8c166",
+        "image":"assets\/catagery\/soups-noodles-pasta.jpg",
+        "percentOff":25.0,
+        "is_active":1
+    },
+    {
+        "id":8,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Cleaning & Household",
+        "color":"#64416d",
+        "image":"assets\/catagery\/cleaning-household.jpg",
+        "percentOff":33.33,
+        "is_active":1
+    },
+    {
+        "id":9,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Drinks & Beverages",
+        "color":"#d29f98",
+        "image":"assets\/catagery\/drinks-beverages.jpg",
+        "percentOff":10.0,
+        "is_active":1
+    },
+    {
+        "id":10,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Beauty & Hygiene",
+        "color":"#4d2243",
+        "image":"assets\/catagery\/beauty-hygiene.jpg",
+        "percentOff":15.79,
+        "is_active":0
+    },
+    {
+        "id":11,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Dals & Pulses",
+        "color":"#b05aed",
+        "image":"assets\/catagery\/dals-pulses.jpg",
+        "percentOff":48.86,
+        "is_active":1
+    },
+    {
+        "id":12,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Rice & Rice Products",
+        "color":"#68da05",
+        "image":"assets\/catagery\/rice-rice-product.jpg",
+        "percentOff":59.71,
+        "is_active":1
+    },
+    {
+        "id":13,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Sugar & Jaggery",
+        "color":"#893e0d",
+        "image":"assets\/catagery\/sugar-jaggery.jpg",
+        "percentOff":23.08,
+        "is_active":1
+    },
+    {
+        "id":14,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Edible Oils & Ghee",
+        "color":"#d0611d",
+        "image":"assets\/catagery\/edible-oil-ghee.jpg",
+        "percentOff":65.52,
+        "is_active":1
+    },
+    {
+        "id":15,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Cooking Pastes",
+        "color":"#4c796d",
+        "image":"assets\/catagery\/",
+        "percentOff":0.0,
+        "is_active":0
+    },
+    {
+        "id":16,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Dry Fruits & Nuts",
+        "color":"#540fec",
+        "image":"assets\/catagery\/dry-fruits-nuts.jpg",
+        "percentOff":60.0,
+        "is_active":1
+    },
+    {
+        "id":17,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Ice Creams & Desserts",
+        "color":"#42ef82",
+        "image":"assets\/catagery\/",
+        "percentOff":0.0,
+        "is_active":0
+    },
+    {
+        "id":18,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Beverages",
+        "color":"#9a1673",
+        "image":"assets\/catagery\/",
+        "percentOff":0.0,
+        "is_active":0
+    },
+    {
+        "id":19,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Chocolates & Candies",
+        "color":"#b093a1",
+        "image":"assets\/catagery\/chocolates-candies.jpg",
+        "percentOff":5.56,
+        "is_active":1
+    },
+    {
+        "id":20,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Namkeen & Savoury Snacks",
+        "color":"#556cab",
+        "image":"assets\/catagery\/namkeen-savoury-snacks.jpg",
+        "percentOff":19.19,
+        "is_active":1
+    },
+    {
+        "id":21,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Pickles & Chutney",
+        "color":"#59554b",
+        "image":"assets\/catagery\/",
+        "percentOff":0.0,
+        "is_active":0
+    },
+    {
+        "id":23,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Bath & Hand Wash",
+        "color":"#5fc1fb",
+        "image":"assets\/catagery\/bath-hand-wash.jpg",
+        "percentOff":14.12,
+        "is_active":1
+    },
+    {
+        "id":24,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Ayurveda",
+        "color":"#e4c79b",
+        "image":"assets\/catagery\/ayurveda.jpg",
+        "percentOff":33.33,
+        "is_active":1
+    },
+    {
+        "id":25,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Hair Care",
+        "color":"#3eb26c",
+        "image":"assets\/catagery\/hair-care.jpg",
+        "percentOff":20.67,
+        "is_active":0
+    },
+    {
+        "id":26,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Buckets & Mugs",
+        "color":"#5c7fd6",
+        "image":"assets\/catagery\/",
+        "percentOff":0.0,
+        "is_active":0
+    },
+    {
+        "id":27,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Stationery",
+        "color":"#5dd070",
+        "image":"assets\/catagery\/stationery.jpg",
+        "percentOff":42.11,
+        "is_active":1
+    },
+    {
+        "id":28,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Electronic Accessories",
+        "color":"#954dd2",
+        "image":"assets\/catagery\/",
+        "percentOff":0.0,
+        "is_active":1
+    },
+    {
+        "id":29,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Appliances & Electricals",
+        "color":"#64dc3c",
+        "image":"assets\/catagery\/",
+        "percentOff":0.0,
+        "is_active":0
+    },
+    {
+        "id":30,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Kitchen Accessories",
+        "color":"#374171",
+        "image":"assets\/catagery\/",
+        "percentOff":0.0,
+        "is_active":0
+    },
+    {
+        "id":31,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Gas Stove",
+        "color":"#ab0b9d",
+        "image":"assets\/catagery\/",
+        "percentOff":0.0,
+        "is_active":0
+    },
+    {
+        "id":32,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Lunch Boxes",
+        "color":"#f98611",
+        "image":"assets\/catagery\/",
+        "percentOff":0.0,
+        "is_active":0
+    },
+    {
+        "id":33,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Oils & Vinegar",
+        "color":"#324c7c",
+        "image":"assets\/catagery\/",
+        "percentOff":0.0,
+        "is_active":0
+    },
+    {
+        "id":34,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Baby Food & Formula",
+        "color":"#9a12d6",
+        "image":"assets\/catagery\/baby-food-formula.jpg",
+        "percentOff":0.73,
+        "is_active":0
+    },
+    {
+        "id":35,
+        "created_date":"2020-08-25 12:47:21.770562",
+        "name":"Baby Oil & Shampoo",
+        "color":"#6f6cf9",
+        "image":"assets\/catagery\/",
+        "percentOff":0.0,
+        "is_active":0
+    },
+    {
+        "id":36,
+        "created_date":"2020-12-01 10:40:34.904350",
+        "name":"Tea & Coffee",
+        "color":"#4f2134",
+        "image":"assets\/catagery\/tea-coffee.jpg",
+        "percentOff":25.71,
+        "is_active":1
+    },
+    {
+        "id":37,
+        "created_date":"2020-12-03 12:36:09.722410",
+        "name":"Detergent & dishwash bar",
+        "color":"#19a9d0",
+        "image":"assets\/catagery\/detergen-dishwashbar.jpg",
+        "percentOff":30.51,
+        "is_active":0
+    },
+    {
+        "id":38,
+        "created_date":"2020-12-05 11:33:32.170769",
+        "name":"Oral Care",
+        "color":"#df4bf1",
+        "image":"assets\/catagery\/oral-care.jpg",
+        "percentOff":32.14,
+        "is_active":0
+    },
+    {
+        "id":39,
+        "created_date":"2021-01-01 13:48:17.682525",
+        "name":"Breakfast Cereals & Foods",
+        "color":"#b05aed",
+        "image":"assets\/catagery\/breakfast-cereals-foods.jpg",
+        "percentOff":22.22,
+        "is_active":1
+    },
+    {
+        "id":40,
+        "created_date":"2021-01-01 13:48:17.682525",
+        "name":"Milk & Milk Products",
+        "color":"#df4bf1",
+        "image":"assets\/catagery\/milk-milk-products.jpg",
+        "percentOff":14.29,
+        "is_active":1
+    },
+    {
+        "id":41,
+        "created_date":"2021-02-16 05:36:59.860160",
+        "name":"Home & Decor",
+        "color":"#b05aed",
+        "image":"assets\/catagery\/home-decor.jpg",
+        "percentOff":40.0,
+        "is_active":0
+    },
+    {
+        "id":42,
+        "created_date":"2021-02-18 14:43:58.245929",
+        "name":"Pooja Needs",
+        "color":"#19a9d0",
+        "image":"assets\/catagery\/pooja-needs.jpg",
+        "percentOff":50.0,
+        "is_active":0
+    },
+    {
+        "id":43,
+        "created_date":"2021-07-21 11:11:18.867629",
+        "name":"Eggs",
+        "color":"#4f2134",
+        "image":"assets\/catagery\/eggs.jpg",
+        "percentOff":35.71,
+        "is_active":1
+    }
+]

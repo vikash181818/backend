@@ -1,0 +1,1462 @@
+[
+    {
+        "id": 1,
+        "unit_code": "50G",
+        "unit_name": "50 Gram",
+        "is_active": 1,
+        "created_date": "2020-08-21 21:58:34.001115",
+        "last_updated_date": "2020-08-21 21:58:34.001115",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 2,
+        "unit_code": "100G",
+        "unit_name": "100 Grams",
+        "is_active": 1,
+        "created_date": "2020-08-21 21:59:08.271369",
+        "last_updated_date": "2020-08-21 21:59:08.271369",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 3,
+        "unit_code": "200G",
+        "unit_name": "200 Grams",
+        "is_active": 1,
+        "created_date": "2020-08-21 21:59:17.279291",
+        "last_updated_date": "2020-08-21 21:59:17.279291",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 4,
+        "unit_code": "250G",
+        "unit_name": "250 Grams",
+        "is_active": 1,
+        "created_date": "2020-08-21 21:59:26.498665",
+        "last_updated_date": "2020-08-21 21:59:26.498665",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 5,
+        "unit_code": "500G",
+        "unit_name": "500 Grams",
+        "is_active": 1,
+        "created_date": "2020-08-21 21:59:35.996886",
+        "last_updated_date": "2020-08-21 21:59:35.996886",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 6,
+        "unit_code": "750G",
+        "unit_name": "750 Grams",
+        "is_active": 1,
+        "created_date": "2020-08-21 21:59:48.391114",
+        "last_updated_date": "2020-08-21 21:59:48.391114",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 7,
+        "unit_code": "1KG",
+        "unit_name": "1 Kilo Gram",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:00:11.075415",
+        "last_updated_date": "2020-08-21 22:00:11.075415",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 8,
+        "unit_code": "2KG",
+        "unit_name": "2 Kilo Grams",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:00:21.166541",
+        "last_updated_date": "2020-08-21 22:00:21.166541",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 9,
+        "unit_code": "5KG",
+        "unit_name": "5 Kilo Grams",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:00:32.889608",
+        "last_updated_date": "2020-08-21 22:00:32.889608",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 10,
+        "unit_code": "10KG",
+        "unit_name": "10 Kilo Grams",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:00:41.316649",
+        "last_updated_date": "2020-08-21 22:00:41.316649",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 11,
+        "unit_code": "25KG",
+        "unit_name": "25 Kilo Grams",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:00:49.213152",
+        "last_updated_date": "2020-08-21 22:00:49.213152",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 12,
+        "unit_code": "50KG",
+        "unit_name": "50 Kilo Grams",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:00:59.448857",
+        "last_updated_date": "2020-08-21 22:00:59.448857",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 13,
+        "unit_code": "100KG",
+        "unit_name": "100 Kilo Grams",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:01:09.528513",
+        "last_updated_date": "2020-08-21 22:01:09.528513",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 14,
+        "unit_code": "100ML",
+        "unit_name": "100 Mili Liter",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:01:30.977668",
+        "last_updated_date": "2020-08-21 22:01:30.977668",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 15,
+        "unit_code": "250ML",
+        "unit_name": "250 Mili Liter",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:01:42.791105",
+        "last_updated_date": "2020-08-21 22:01:42.791105",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 16,
+        "unit_code": "500ML",
+        "unit_name": "500 Mili Liter",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:01:53.519844",
+        "last_updated_date": "2020-08-21 22:01:53.519844",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 17,
+        "unit_code": "1L",
+        "unit_name": "1 Liter",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:02:07.259779",
+        "last_updated_date": "2020-08-21 22:02:07.259779",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 18,
+        "unit_code": "5L",
+        "unit_name": "5 Liters",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:02:15.983279",
+        "last_updated_date": "2020-08-21 22:02:15.983279",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 19,
+        "unit_code": "15L",
+        "unit_name": "15 Liters",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:02:23.673026",
+        "last_updated_date": "2020-08-21 22:02:23.673026",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 20,
+        "unit_code": "1PCS",
+        "unit_name": "1 Pcs",
+        "is_active": 1,
+        "created_date": "2020-11-23 07:24:06.651023",
+        "last_updated_date": "2020-11-23 07:24:06.651023",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 21,
+        "unit_code": "3KG",
+        "unit_name": "3 Kilo Grams",
+        "is_active": 1,
+        "created_date": "2020-12-03 12:56:00.388766",
+        "last_updated_date": "2020-12-03 12:56:00.388766",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 22,
+        "unit_code": "4KG",
+        "unit_name": "4 Kilo Gram",
+        "is_active": 1,
+        "created_date": "2020-12-03 12:58:28.247223",
+        "last_updated_date": "2020-12-03 12:58:28.247223",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 23,
+        "unit_code": "6P2KG",
+        "unit_name": "8 Kilo Gram(6+2)",
+        "is_active": 1,
+        "created_date": "2020-12-03 12:58:28.532176",
+        "last_updated_date": "2020-12-03 12:58:28.532176",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 24,
+        "unit_code": "2L",
+        "unit_name": "2 Liter",
+        "is_active": 1,
+        "created_date": "2020-12-05 11:14:49.957182",
+        "last_updated_date": "2020-12-05 11:14:49.957182",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 25,
+        "unit_code": "300G",
+        "unit_name": "300 Gram",
+        "is_active": 1,
+        "created_date": "2020-12-05 11:22:09.562300",
+        "last_updated_date": "2020-12-05 11:22:09.562300",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 26,
+        "unit_code": "150G",
+        "unit_name": "150 Gram",
+        "is_active": 1,
+        "created_date": "2020-12-05 11:52:05.679772",
+        "last_updated_date": "2020-12-05 11:52:05.679772",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 27,
+        "unit_code": "175ML",
+        "unit_name": "175 Mili Liter",
+        "is_active": 1,
+        "created_date": "2020-12-05 12:40:36.317440",
+        "last_updated_date": "2020-12-05 12:40:36.317440",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 28,
+        "unit_code": "12N",
+        "unit_name": "12 Nos",
+        "is_active": 1,
+        "created_date": "2020-12-10 08:21:46.053447",
+        "last_updated_date": "2020-12-10 08:21:46.053447",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 29,
+        "unit_code": "5PCS",
+        "unit_name": "5 Pcs",
+        "is_active": 1,
+        "created_date": "2020-12-15 03:23:41.791878",
+        "last_updated_date": "2020-12-15 03:23:41.791878",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 30,
+        "unit_code": "1PCS500G",
+        "unit_name": "1 Pcs (aprox 500 G to 850 G)",
+        "is_active": 1,
+        "created_date": "2020-12-15 03:23:41.791878",
+        "last_updated_date": "2020-12-15 03:23:41.791878",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 31,
+        "unit_code": "6NOS",
+        "unit_name": "6 Nos",
+        "is_active": 1,
+        "created_date": "2020-12-10 08:21:46.053447",
+        "last_updated_date": "2020-12-10 08:21:46.053447",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 32,
+        "unit_code": "1200G",
+        "unit_name": "1.2 kg",
+        "is_active": 1,
+        "created_date": "2021-01-01 13:40:53.644955",
+        "last_updated_date": "2021-01-01 13:40:53.644955",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 33,
+        "unit_code": "650ML",
+        "unit_name": "650 Mili Liter",
+        "is_active": 1,
+        "created_date": "2021-01-01 15:31:41.352024",
+        "last_updated_date": "2021-01-01 15:31:41.352024",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 34,
+        "unit_code": "560G",
+        "unit_name": "560 Grams",
+        "is_active": 1,
+        "created_date": "2021-01-11 11:59:03.305234",
+        "last_updated_date": "2021-01-11 11:59:03.305234",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 35,
+        "unit_code": "420G",
+        "unit_name": "420 Grams",
+        "is_active": 1,
+        "created_date": "2021-01-11 11:59:03.383205",
+        "last_updated_date": "2021-01-11 11:59:03.383205",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 36,
+        "unit_code": "290G",
+        "unit_name": "290 Grams",
+        "is_active": 1,
+        "created_date": "2021-01-11 11:59:03.451817",
+        "last_updated_date": "2021-01-11 11:59:03.451817",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 37,
+        "unit_code": "292g",
+        "unit_name": "292 Grams",
+        "is_active": 1,
+        "created_date": "2021-01-11 11:59:03.520442",
+        "last_updated_date": "2021-01-11 11:59:03.520442",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 38,
+        "unit_code": "1PCS1KG",
+        "unit_name": "1 Pcs (aprox 1KG T0 1.5KG)",
+        "is_active": 1,
+        "created_date": "2020-12-15 03:23:41.791878",
+        "last_updated_date": "2020-12-15 03:23:41.791878",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 39,
+        "unit_code": "1PCS2KG",
+        "unit_name": "1 Pcs (aprox 2.2KG T0 3KG)",
+        "is_active": 1,
+        "created_date": "2021-01-22 16:26:48.580133",
+        "last_updated_date": "2021-01-22 16:26:48.580133",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 40,
+        "unit_code": "1PCS1500G",
+        "unit_name": "1 Pcs (aprox 1.5KG T0 2.2KG)",
+        "is_active": 1,
+        "created_date": "2021-01-25 18:47:57.318676",
+        "last_updated_date": "2021-01-25 18:47:57.318676",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 41,
+        "unit_code": "1.5KG",
+        "unit_name": "1.5 Kilo Gram",
+        "is_active": 1,
+        "created_date": "2020-08-21 22:00:11.075415",
+        "last_updated_date": "2020-08-21 22:00:11.075415",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 42,
+        "unit_code": "6KG",
+        "unit_name": "6Kilo Gram",
+        "is_active": 1,
+        "created_date": "2020-12-03 12:58:28.247223",
+        "last_updated_date": "2020-12-03 12:58:28.247223",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 43,
+        "unit_code": "450G",
+        "unit_name": "450 Gram",
+        "is_active": 1,
+        "created_date": "2021-02-05 14:07:45.964146",
+        "last_updated_date": "2021-02-05 14:07:45.964146",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 44,
+        "unit_code": "650G",
+        "unit_name": "650 Gram",
+        "is_active": 1,
+        "created_date": "2021-02-05 14:07:46.121666",
+        "last_updated_date": "2021-02-05 14:07:46.121666",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 45,
+        "unit_code": "10G",
+        "unit_name": "10G",
+        "is_active": 1,
+        "created_date": "2021-02-05 14:13:48.315992",
+        "last_updated_date": "2021-02-05 14:13:48.315992",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 46,
+        "unit_code": "400G",
+        "unit_name": "400 Gram",
+        "is_active": 1,
+        "created_date": "2021-02-12 13:42:31.356119",
+        "last_updated_date": "2021-02-12 13:42:31.356119",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 47,
+        "unit_code": "200X5G",
+        "unit_name": "200X5 Grams",
+        "is_active": 1,
+        "created_date": "2021-02-12 14:36:19.032510",
+        "last_updated_date": "2021-02-12 14:36:19.032510",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 48,
+        "unit_code": "190G",
+        "unit_name": "190 Gram",
+        "is_active": 1,
+        "created_date": "2021-02-12 14:55:51.712322",
+        "last_updated_date": "2021-02-12 14:55:51.712322",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 49,
+        "unit_code": "250X4G",
+        "unit_name": "250X4 Gram",
+        "is_active": 1,
+        "created_date": "2021-02-12 15:11:12.033175",
+        "last_updated_date": "2021-02-12 15:11:12.033175",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 50,
+        "unit_code": "200X3G",
+        "unit_name": "200X3 Grams",
+        "is_active": 1,
+        "created_date": "2021-02-12 15:23:29.027053",
+        "last_updated_date": "2021-02-12 15:23:29.027053",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 51,
+        "unit_code": "2X45ML",
+        "unit_name": "2X45 Mili Liter",
+        "is_active": 1,
+        "created_date": "2021-02-12 16:32:08.371478",
+        "last_updated_date": "2021-02-12 16:32:08.371478",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 52,
+        "unit_code": "5X125G",
+        "unit_name": "5X125 Gram",
+        "is_active": 1,
+        "created_date": "2021-01-01 15:31:41.352024",
+        "last_updated_date": "2021-01-01 15:31:41.352024",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 53,
+        "unit_code": "4X125G",
+        "unit_name": "4X125G Gram",
+        "is_active": 1,
+        "created_date": "2021-02-13 10:38:35.587037",
+        "last_updated_date": "2021-02-13 10:38:35.587037",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 54,
+        "unit_code": "25unit",
+        "unit_name": "25 Unit",
+        "is_active": 1,
+        "created_date": "2021-02-13 12:05:19.976238",
+        "last_updated_date": "2021-02-13 12:05:19.976238",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 55,
+        "unit_code": "200ML",
+        "unit_name": "200 Mili Liter",
+        "is_active": 1,
+        "created_date": "2021-02-20 12:49:17.112006",
+        "last_updated_date": "2021-02-20 12:49:17.112006",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 56,
+        "unit_code": "350G",
+        "unit_name": "350 Grams",
+        "is_active": 1,
+        "created_date": "2021-02-20 12:49:17.195193",
+        "last_updated_date": "2021-02-20 12:49:17.195193",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 57,
+        "unit_code": "750ML",
+        "unit_name": "750 Mili Liter",
+        "is_active": 1,
+        "created_date": "2021-02-25 16:03:22.095946",
+        "last_updated_date": "2021-02-25 16:03:22.095946",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 58,
+        "unit_code": "800G",
+        "unit_name": "800 Grams",
+        "is_active": 1,
+        "created_date": "2021-02-26 07:53:25.785246",
+        "last_updated_date": "2021-02-26 07:53:25.785246",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 59,
+        "unit_code": "160G",
+        "unit_name": "160 Grams",
+        "is_active": 1,
+        "created_date": "2021-03-04 02:56:01.463198",
+        "last_updated_date": "2021-03-04 02:56:01.463198",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 60,
+        "unit_code": "25G",
+        "unit_name": "25 Grams",
+        "is_active": 1,
+        "created_date": "2021-03-05 14:25:30.464484",
+        "last_updated_date": "2021-03-05 14:25:30.464484",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 61,
+        "unit_code": "1.14KG",
+        "unit_name": "1.14 Kilo Grams",
+        "is_active": 1,
+        "created_date": "2021-03-06 06:43:43.928692",
+        "last_updated_date": "2021-03-06 06:43:43.928692",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 62,
+        "unit_code": "700ML",
+        "unit_name": "700 Mili Liter",
+        "is_active": 1,
+        "created_date": "2021-03-06 06:51:01.361500",
+        "last_updated_date": "2021-03-06 06:51:01.361500",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 63,
+        "unit_code": "50ML",
+        "unit_name": "50 Mili Liter",
+        "is_active": 1,
+        "created_date": "2021-03-07 03:58:24.557236",
+        "last_updated_date": "2021-03-07 03:58:24.557236",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 64,
+        "unit_code": "100PCS",
+        "unit_name": "100 Pcs",
+        "is_active": 1,
+        "created_date": "2021-03-07 04:50:18.138088",
+        "last_updated_date": "2021-03-07 04:50:18.138088",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 65,
+        "unit_code": "830G",
+        "unit_name": "830 Grams",
+        "is_active": 1,
+        "created_date": "2021-03-07 04:56:16.316567",
+        "last_updated_date": "2021-03-07 04:56:16.316567",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 66,
+        "unit_code": "3P1N75G",
+        "unit_name": "(3+1) N 75 Grams",
+        "is_active": 1,
+        "created_date": "2021-03-07 04:56:16.316567",
+        "last_updated_date": "2021-03-07 04:56:16.316567",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 67,
+        "unit_code": "75G",
+        "unit_name": "75 Grams",
+        "is_active": 1,
+        "created_date": "2021-03-13 17:26:10.946470",
+        "last_updated_date": "2021-03-13 17:26:10.946470",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 68,
+        "unit_code": "125G",
+        "unit_name": "125 Grams",
+        "is_active": 1,
+        "created_date": "2021-03-13 17:30:59.249105",
+        "last_updated_date": "2021-03-13 17:30:59.249105",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 69,
+        "unit_code": "140G",
+        "unit_name": "140 Grams",
+        "is_active": 1,
+        "created_date": "2021-03-18 07:14:21.248984",
+        "last_updated_date": "2021-03-18 07:14:21.248984",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 70,
+        "unit_code": "72.5G",
+        "unit_name": "72.5 Grams",
+        "is_active": 1,
+        "created_date": "2021-03-18 07:14:21.436159",
+        "last_updated_date": "2021-03-18 07:14:21.436159",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 71,
+        "unit_code": "70G",
+        "unit_name": "70 Grams",
+        "is_active": 1,
+        "created_date": "2021-03-18 07:19:38.694293",
+        "last_updated_date": "2021-03-18 07:19:38.694293",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 72,
+        "unit_code": "50PCS",
+        "unit_name": "50 PCS",
+        "is_active": 1,
+        "created_date": "2021-03-23 12:10:08.537501",
+        "last_updated_date": "2021-03-23 12:10:08.537501",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 73,
+        "unit_code": "10KG.",
+        "unit_name": "10 Kilo Gram",
+        "is_active": 0,
+        "created_date": "2021-03-23 12:10:08.699567",
+        "last_updated_date": "2021-03-23 12:10:08.699567",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 74,
+        "unit_code": "600 Grams",
+        "unit_name": "600 Grams",
+        "is_active": 1,
+        "created_date": "2021-04-19 14:33:42.470527",
+        "last_updated_date": "2021-04-19 14:33:42.470527",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 75,
+        "unit_code": "6 Gram",
+        "unit_name": "6 Gram",
+        "is_active": 1,
+        "created_date": "2021-04-19 15:28:43.843706",
+        "last_updated_date": "2021-04-19 15:28:43.843706",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 76,
+        "unit_code": "30 Gram",
+        "unit_name": "30 Gram",
+        "is_active": 1,
+        "created_date": "2021-04-19 15:31:39.481185",
+        "last_updated_date": "2021-04-19 15:31:39.481185",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 77,
+        "unit_code": "10CI1S",
+        "unit_name": "10 Capsule in 1 Strip",
+        "is_active": 1,
+        "created_date": "2021-04-19 17:11:30.205833",
+        "last_updated_date": "2021-04-19 17:11:30.205833",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 78,
+        "unit_code": "475G",
+        "unit_name": "475 Gram",
+        "is_active": 1,
+        "created_date": "2021-04-21 05:11:09.882927",
+        "last_updated_date": "2021-04-21 05:11:09.882927",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 79,
+        "unit_code": "11G",
+        "unit_name": "11 Gram",
+        "is_active": 1,
+        "created_date": "2021-04-25 14:28:57.280838",
+        "last_updated_date": "2021-04-25 14:28:57.280838",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 80,
+        "unit_code": "53G",
+        "unit_name": "53 Gram",
+        "is_active": 1,
+        "created_date": "2021-04-25 14:29:21.969032",
+        "last_updated_date": "2021-04-25 14:29:21.969032",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 81,
+        "unit_code": "45G",
+        "unit_name": "45 Gram",
+        "is_active": 1,
+        "created_date": "2021-04-25 14:30:17.989890",
+        "last_updated_date": "2021-04-25 14:30:17.989890",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 82,
+        "unit_code": "12G",
+        "unit_name": "12 Gram",
+        "is_active": 1,
+        "created_date": "2021-04-25 14:31:06.509028",
+        "last_updated_date": "2021-04-25 14:31:06.509028",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 83,
+        "unit_code": "16G",
+        "unit_name": "16G",
+        "is_active": 1,
+        "created_date": "2021-04-25 14:31:30.430257",
+        "last_updated_date": "2021-04-25 14:31:30.430257",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 84,
+        "unit_code": "43G",
+        "unit_name": "43 Gram",
+        "is_active": 1,
+        "created_date": "2021-04-25 14:32:41.464044",
+        "last_updated_date": "2021-04-25 14:32:41.464044",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 85,
+        "unit_code": "44G",
+        "unit_name": "44 Gram",
+        "is_active": 1,
+        "created_date": "2021-04-25 14:32:41.552558",
+        "last_updated_date": "2021-04-25 14:32:41.552558",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 86,
+        "unit_code": "60G",
+        "unit_name": "60 Grams",
+        "is_active": 1,
+        "created_date": "2021-04-27 17:07:02.389657",
+        "last_updated_date": "2021-04-27 17:07:02.389657",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 87,
+        "unit_code": "3N",
+        "unit_name": "3 Nos",
+        "is_active": 1,
+        "created_date": "2021-05-02 13:54:20.844186",
+        "last_updated_date": "2021-05-02 13:54:20.844186",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 88,
+        "unit_code": "360ML",
+        "unit_name": "360 Mili Liter",
+        "is_active": 1,
+        "created_date": "2021-05-03 16:16:17.517799",
+        "last_updated_date": "2021-05-03 16:16:17.517799",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 89,
+        "unit_code": "5G",
+        "unit_name": "5 Gram",
+        "is_active": 1,
+        "created_date": "2021-05-04 17:24:24.949102",
+        "last_updated_date": "2021-05-04 17:24:24.949102",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 90,
+        "unit_code": "4X100G",
+        "unit_name": "4X100 Gram",
+        "is_active": 1,
+        "created_date": "2021-05-04 17:46:20.411333",
+        "last_updated_date": "2021-05-04 17:46:20.411333",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 91,
+        "unit_code": "7ML",
+        "unit_name": "7 Mili Liter",
+        "is_active": 1,
+        "created_date": "2021-05-04 17:53:56.505184",
+        "last_updated_date": "2021-05-04 17:53:56.505184",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 92,
+        "unit_code": "3G",
+        "unit_name": "3 Grams",
+        "is_active": 1,
+        "created_date": "2021-05-04 18:06:20.114470",
+        "last_updated_date": "2021-05-04 18:06:20.114470",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 93,
+        "unit_code": "273G",
+        "unit_name": "273 Grams",
+        "is_active": 1,
+        "created_date": "2021-05-04 18:11:51.769332",
+        "last_updated_date": "2021-05-04 18:11:51.769332",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 94,
+        "unit_code": "680G",
+        "unit_name": "680 Grams",
+        "is_active": 1,
+        "created_date": "2021-05-05 14:11:11.587128",
+        "last_updated_date": "2021-05-05 14:11:11.587128",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 95,
+        "unit_code": "4x36G",
+        "unit_name": "4x36 Grams",
+        "is_active": 1,
+        "created_date": "2021-05-05 15:57:09.588617",
+        "last_updated_date": "2021-05-05 15:57:09.588617",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 96,
+        "unit_code": "180G",
+        "unit_name": "180 Grams",
+        "is_active": 1,
+        "created_date": "2021-05-05 16:05:03.612658",
+        "last_updated_date": "2021-05-05 16:05:03.612658",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 97,
+        "unit_code": "1x12 Unit",
+        "unit_name": "1x12 Unit",
+        "is_active": 1,
+        "created_date": "2021-05-05 16:21:10.644702",
+        "last_updated_date": "2021-05-05 16:21:10.644702",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 98,
+        "unit_code": "700G",
+        "unit_name": "700 Grams",
+        "is_active": 1,
+        "created_date": "2021-05-08 11:36:21.031046",
+        "last_updated_date": "2021-05-08 11:36:21.031046",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 99,
+        "unit_code": "900ML",
+        "unit_name": "900 Mili Liter",
+        "is_active": 1,
+        "created_date": "2021-05-15 04:46:06.168046",
+        "last_updated_date": "2021-05-15 04:46:06.168046",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 100,
+        "unit_code": "21G",
+        "unit_name": "21 Gram",
+        "is_active": 1,
+        "created_date": "2021-05-16 01:55:58.965062",
+        "last_updated_date": "2021-05-16 01:55:58.965062",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 101,
+        "unit_code": "120G",
+        "unit_name": "120 Gram",
+        "is_active": 1,
+        "created_date": "2021-05-16 07:32:10.210620",
+        "last_updated_date": "2021-05-16 07:32:10.210620",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 102,
+        "unit_code": "175G",
+        "unit_name": "175 Gram",
+        "is_active": 1,
+        "created_date": "2021-05-16 09:09:12.388187",
+        "last_updated_date": "2021-05-16 09:09:12.388187",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 103,
+        "unit_code": "340ML",
+        "unit_name": "340 Mili Liter",
+        "is_active": 1,
+        "created_date": "2021-05-16 15:11:11.433457",
+        "last_updated_date": "2021-05-16 15:11:11.433457",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 104,
+        "unit_code": "55G",
+        "unit_name": "55 Grams",
+        "is_active": 1,
+        "created_date": "2021-05-19 16:04:08.004075",
+        "last_updated_date": "2021-05-19 16:04:08.004075",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 105,
+        "unit_code": "875G",
+        "unit_name": "875 Grams",
+        "is_active": 1,
+        "created_date": "2021-05-24 13:37:44.810524",
+        "last_updated_date": "2021-05-24 13:37:44.810524",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 106,
+        "unit_code": "654G",
+        "unit_name": "654 Grams",
+        "is_active": 1,
+        "created_date": "2021-05-27 14:44:56.888342",
+        "last_updated_date": "2021-05-27 14:44:56.888342",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 107,
+        "unit_code": "280G",
+        "unit_name": "280 Grams",
+        "is_active": 1,
+        "created_date": "2021-05-27 15:18:04.444678",
+        "last_updated_date": "2021-05-27 15:18:04.444678",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 108,
+        "unit_code": "1.5G",
+        "unit_name": "1.5 Gram",
+        "is_active": 1,
+        "created_date": "2021-06-05 07:18:36.757734",
+        "last_updated_date": "2021-06-05 07:18:36.757734",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 109,
+        "unit_code": "950G",
+        "unit_name": "950 Grams",
+        "is_active": 1,
+        "created_date": "2021-06-08 12:09:05.205767",
+        "last_updated_date": "2021-06-08 12:09:05.205767",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 110,
+        "unit_code": "220G",
+        "unit_name": "220 Grams",
+        "is_active": 1,
+        "created_date": "2021-06-21 07:22:24.695641",
+        "last_updated_date": "2021-06-21 07:22:24.695641",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 111,
+        "unit_code": "1SET",
+        "unit_name": "1 Set",
+        "is_active": 1,
+        "created_date": "2021-07-03 18:02:40.962336",
+        "last_updated_date": "2021-07-03 18:02:40.962336",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 112,
+        "unit_code": "1PKT",
+        "unit_name": "1 Packet",
+        "is_active": 1,
+        "created_date": "2021-07-03 18:02:41.150756",
+        "last_updated_date": "2021-07-03 18:02:41.150756",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 113,
+        "unit_code": "30PCS",
+        "unit_name": "30 Pcs",
+        "is_active": 1,
+        "created_date": "2021-07-21 11:16:05.715454",
+        "last_updated_date": "2021-07-21 11:16:05.715454",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 114,
+        "unit_code": "9X100G",
+        "unit_name": "9X100 Grams",
+        "is_active": 1,
+        "created_date": "2021-08-17 04:53:16.928625",
+        "last_updated_date": "2021-08-17 04:53:16.928625",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 115,
+        "unit_code": "40G",
+        "unit_name": "40 Grams",
+        "is_active": 1,
+        "created_date": "2021-09-02 16:05:49.214245",
+        "last_updated_date": "2021-09-02 16:05:49.214245",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 116,
+        "unit_code": "45ML",
+        "unit_name": "45 ML",
+        "is_active": 1,
+        "created_date": "2021-10-06 15:39:52.492605",
+        "last_updated_date": "2021-10-06 15:39:52.492605",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 117,
+        "unit_code": "1P8ML",
+        "unit_name": "1800 Mili Liter",
+        "is_active": 1,
+        "created_date": "2021-10-06 15:39:52.492605",
+        "last_updated_date": "2021-10-06 15:39:52.492605",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 118,
+        "unit_code": "CO24B",
+        "unit_name": "Case of 24 bottles",
+        "is_active": 1,
+        "created_date": "2021-11-15 13:11:32.989656",
+        "last_updated_date": "2021-11-15 13:11:32.989656",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 119,
+        "unit_code": "1X5 Nos",
+        "unit_name": "1X5 Nos",
+        "is_active": 1,
+        "created_date": "2021-11-16 18:30:09.591017",
+        "last_updated_date": "2021-11-16 18:30:09.591017",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 120,
+        "unit_code": "2X4",
+        "unit_name": "2X4",
+        "is_active": 1,
+        "created_date": "2021-11-16 18:40:28.011275",
+        "last_updated_date": "2021-11-16 18:40:28.011275",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 121,
+        "unit_code": "1X4 Unit",
+        "unit_name": "1X4 Unit",
+        "is_active": 1,
+        "created_date": "2021-11-24 10:46:55.721352",
+        "last_updated_date": "2021-11-24 10:46:55.721352",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 122,
+        "unit_code": "1X2 Unit",
+        "unit_name": "1X2 Unit",
+        "is_active": 1,
+        "created_date": "2021-11-24 10:50:16.827505",
+        "last_updated_date": "2021-11-24 10:50:16.827505",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 123,
+        "unit_code": "1X6 Unit",
+        "unit_name": "1X6 Unit",
+        "is_active": 1,
+        "created_date": "2021-11-24 11:12:41.851146",
+        "last_updated_date": "2021-11-24 11:12:41.851146",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 124,
+        "unit_code": "240ML",
+        "unit_name": "240 ML",
+        "is_active": 1,
+        "created_date": "2021-11-25 15:11:25.755884",
+        "last_updated_date": "2021-11-25 15:11:25.755884",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 125,
+        "unit_code": "20Ltr",
+        "unit_name": "20 Ltr",
+        "is_active": 1,
+        "created_date": "2021-11-25 15:19:20.570970",
+        "last_updated_date": "2021-11-25 15:19:20.570970",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 126,
+        "unit_code": "15PCS",
+        "unit_name": "15 Pcs",
+        "is_active": 1,
+        "created_date": "2021-12-03 03:44:49.222956",
+        "last_updated_date": "2021-12-03 03:44:49.222956",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 127,
+        "unit_code": "375G",
+        "unit_name": "375 Grams",
+        "is_active": 1,
+        "created_date": "2021-12-24 18:18:25.696440",
+        "last_updated_date": "2021-12-24 18:18:25.696440",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 128,
+        "unit_code": "1SF",
+        "unit_name": "1 Sq. Feet",
+        "is_active": 1,
+        "created_date": "2021-12-26 12:42:34.388305",
+        "last_updated_date": "2021-12-26 12:42:34.388305",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 129,
+        "unit_code": "170G",
+        "unit_name": "170 Grams",
+        "is_active": 1,
+        "created_date": "2022-02-17 15:47:59.052453",
+        "last_updated_date": "2022-02-17 15:47:59.052453",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 130,
+        "unit_code": "1.5 Mtr.",
+        "unit_name": "1.5 Mtr.",
+        "is_active": 1,
+        "created_date": "2022-02-26 04:12:40.375079",
+        "last_updated_date": "2022-02-26 04:12:40.375079",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 131,
+        "unit_code": "5 Mtr.",
+        "unit_name": "5 Mtr.",
+        "is_active": 1,
+        "created_date": "2022-02-26 04:12:40.442012",
+        "last_updated_date": "2022-02-26 04:12:40.442012",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 132,
+        "unit_code": "28 g",
+        "unit_name": "28 Grams",
+        "is_active": 1,
+        "created_date": "2022-02-26 04:12:40.506910",
+        "last_updated_date": "2022-02-26 04:12:40.506910",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 133,
+        "unit_code": "25PCS",
+        "unit_name": "25 PCS",
+        "is_active": 1,
+        "created_date": "2022-05-06 19:37:18.352745",
+        "last_updated_date": "2022-05-06 19:37:18.352745",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 134,
+        "unit_code": "1 Nos.",
+        "unit_name": "1 Nos.",
+        "is_active": 1,
+        "created_date": "2022-06-10 15:18:29.822800",
+        "last_updated_date": "2022-06-10 15:18:29.822800",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 135,
+        "unit_code": "80G",
+        "unit_name": "80 Grams",
+        "is_active": 1,
+        "created_date": "2022-07-03 11:34:50.624854",
+        "last_updated_date": "2022-07-03 11:34:50.624854",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 136,
+        "unit_code": "435ML",
+        "unit_name": "435 Mili Liter",
+        "is_active": 1,
+        "created_date": "2023-01-19 04:27:18.533700",
+        "last_updated_date": "2023-01-19 04:27:18.533700",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 137,
+        "unit_code": "3L",
+        "unit_name": "3 Liter",
+        "is_active": 1,
+        "created_date": "2023-01-19 04:31:29.432143",
+        "last_updated_date": "2023-01-19 04:31:29.432143",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 138,
+        "unit_code": "72M",
+        "unit_name": "72 Meter",
+        "is_active": 1,
+        "created_date": "2023-04-30 04:44:13.767909",
+        "last_updated_date": "2023-04-30 04:44:13.767909",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 139,
+        "unit_code": "1X3 Unit",
+        "unit_name": "1X3 Unit",
+        "is_active": 1,
+        "created_date": "2023-04-30 08:22:02.571541",
+        "last_updated_date": "2023-04-30 08:22:02.571541",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 140,
+        "unit_code": "1B",
+        "unit_name": " 1 Bottle",
+        "is_active": 1,
+        "created_date": "2023-05-15 07:18:32.253216",
+        "last_updated_date": "2023-05-15 07:18:32.253216",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 141,
+        "unit_code": "400ML",
+        "unit_name": "400 Mili Liter",
+        "is_active": 1,
+        "created_date": "2023-10-12 05:22:19.315377",
+        "last_updated_date": "2023-10-12 05:22:19.315377",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 142,
+        "unit_code": "15G",
+        "unit_name": "15 Grams",
+        "is_active": 1,
+        "created_date": "2023-11-03 06:06:58.751527",
+        "last_updated_date": "2023-11-03 06:06:58.751527",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 143,
+        "unit_code": "1REAM",
+        "unit_name": "1 Ream",
+        "is_active": 1,
+        "created_date": "2023-12-17 07:42:47.119848",
+        "last_updated_date": "2023-12-17 07:42:47.119848",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 144,
+        "unit_code": "125ML",
+        "unit_name": "125 ml",
+        "is_active": 1,
+        "created_date": "2024-05-19 01:29:13.004691",
+        "last_updated_date": "2024-05-19 01:29:13.004691",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 145,
+        "unit_code": "1 Mtr.",
+        "unit_name": "1 Meter",
+        "is_active": 1,
+        "created_date": "2024-06-19 00:27:08.764397",
+        "last_updated_date": "2024-06-19 00:27:08.764397",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    },
+    {
+        "id": 146,
+        "unit_code": "15ML",
+        "unit_name": "15 ml",
+        "is_active": 1,
+        "created_date": "2024-09-03 02:23:15.626471",
+        "last_updated_date": "2024-09-03 02:23:15.626471",
+        "createdById": 1,
+        "lastUpdatedById": 1
+    }
+]
