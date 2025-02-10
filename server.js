@@ -26,7 +26,7 @@ const filterRoutes=require('./routes/filterRoutes');
 const userProfileRoute=require('./routes/userProfileRoute');
 
 const orderRoutes=require('./routes/orderRoutes/orderRoutes');
-
+const reset=require('./routes/resetRoute')
 // Load environment variables
 dotenv.config();
 
@@ -42,7 +42,7 @@ app.use(cors());
 
 // Serve static files from the "assets" directory
 app.use('/assets', express.static('assets'));
-
+app.use("/api/",reset)
 // Use login routes
 app.use("/api/", loginRoutes,carouselRoutes); 
 
@@ -73,5 +73,5 @@ app.get("/", (req, res) => {
 // Start the server
 const PORT = 3000;
 app.listen(PORT, () => {
-  console.log(`Server running at http://localhost:${PORT}`);
+  console.log(`Server running at http://0.0.0.0:${PORT}`);
 });

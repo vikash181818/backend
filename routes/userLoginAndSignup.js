@@ -108,19 +108,88 @@ router
         { expiresIn: "1h" }
       );
 
-      // Use localhost domain for testing - adjust as necessary for production
-      const verificationLink = `http://192.168.68.122:3000/api/user/signup?token=${verificationToken}`;
+      // Make sure this is your actual domain for production (adjust for your environment)
+      const verificationLink = `http://192.168.68.116:3000/api/user/signup?token=${verificationToken}`;
+      console.log("Verification link:", verificationLink); // Debugging line to ensure the link is correct
 
-      // Set up the email
+      // Set up the email with HTML content
       const mailOptions = {
-        from: "onlinedukaans@gmail.com",
+        from: "kumarsharmavikash185@gmail.com", // Change this to your email
         to: email,
-        subject: "Email Verification",
-        text: `Please verify your email by clicking on the following link: ${verificationLink}`,
+        subject: "Welcome to Our Service - Email Verification",
+        html: `
+          <html>
+            <head>
+              <style>
+                body {
+                  font-family: Arial, sans-serif;
+                  background-color: #f4f4f4;
+                  color: #333;
+                  padding: 20px;
+                }
+                .container {
+                  max-width: 600px;
+                  margin: auto;
+                  background-color: #ffffff;
+                  padding: 30px;
+                  border-radius: 8px;
+                  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                }
+                .header {
+                  text-align: center;
+                  padding-bottom: 20px;
+                }
+                .header h1 {
+                  font-size: 24px;
+                  color: #4CAF50;
+                }
+                .button {
+                  display: block;
+                  width: 100%;
+                  background-color: #4CAF50;
+                  color: white;
+                  padding: 15px;
+                  text-align: center;
+                  text-decoration: none;
+                  font-size: 16px;
+                  border-radius: 5px;
+                  margin-top: 20px;
+                }
+                .footer {
+                  font-size: 12px;
+                  color: #777;
+                  text-align: center;
+                  margin-top: 40px;
+                }
+              </style>
+            </head>
+            <body>
+              <div class="container">
+                <div class="header">
+                  <h1>Welcome to Our Service!</h1>
+                  <p>We are excited to have you on board. Please confirm your email address to get started.</p>
+                </div>
+                <p>To verify your email address and activate your account, please click the button below:</p>
+                <a href="${verificationLink}" class="button">Verify Email</a>
+                <div class="footer">
+                  <p>If you did not sign up for our service, you can safely ignore this email.</p>
+                  <p>Thank you for joining!</p>
+                </div>
+              </div>
+            </body>
+          </html>
+        `,
       };
 
       // Send the verification email
-      await transporter.sendMail(mailOptions);
+      await transporter.sendMail(mailOptions, (error, info) => {
+        if (error) {
+          console.error("Error sending email:", error);
+          return res.status(500).json({ message: "Error sending verification email." });
+        } else {
+          console.log("Verification email sent:", info.response); // Debugging line to ensure email is sent
+        }
+      });
 
       // Respond to the client
       res.status(201).json({
@@ -134,9 +203,11 @@ router
 
 // User Login Route (with email or mobile)
 router.post("/user-login", async (req, res) => {
+  console.log("req.body>>>>>>>>>>>>>>>>>>>>>>>>>>>", req.body);
   try {
     const { login, password } = req.body;
 
+    console.log("req.body>>>>>>>>>>>>", req.body);
     // Check if email/mobile and password are provided in the request body
     if (!login || !password) {
       return res.status(400).json({ message: "Login (email/mobile) and password are required." });
@@ -202,82 +273,7 @@ router.post("/user-login", async (req, res) => {
   }
 });
 
-// Forgot Password Route
-router.post("/forgot-password", async (req, res) => {
-  try {
-    const { email } = req.body;
 
-    if (!email) {
-      return res.status(400).json({ message: "Email is required." });
-    }
 
-    const userSnapshot = await db.collection("users").where("email", "==", email).get();
-    if (userSnapshot.empty) {
-      return res.status(404).json({ message: "User not found." });
-    }
-
-    // Generate reset token
-    const resetToken = jwt.sign({ id: userSnapshot.docs[0].id }, process.env.JWT_SECRET, {
-      expiresIn: "1h", // Token expires in 1 hour
-    });
-
-    // Create reset link with token
-    const resetLink = `http://192.168.68.125:3000/api/user/reset-password?token=${resetToken}`;
-
-    // Set up email content with the reset link
-    const mailOptions = {
-      from: "kumarsharmavikash185@gmail.com",
-      to: email,
-      subject: "Password Reset Request",
-      text: `You requested a password reset. Please click the following link to reset your password: ${resetLink}`,
-    };
-
-    // Send the email
-    await transporter.sendMail(mailOptions);
-
-    res.status(200).json({ message: "Password reset link sent to email." });
-  } catch (error) {
-    console.error("Error during forgot password:", error.message);
-    res.status(500).json({ message: "Internal server error", error: error.message });
-  }
-});
-
-// Reset Password Route
-router.post("/reset-password", async (req, res) => {
-  try {
-    const { token, newPassword } = req.body;
-
-    if (!token || !newPassword) {
-      return res.status(400).json({ message: "Token and new password are required." });
-    }
-
-    let decoded;
-    try {
-      // Verify token
-      decoded = jwt.verify(token, process.env.JWT_SECRET);
-    } catch (error) {
-      return res.status(400).json({ message: "Invalid or expired token." });
-    }
-
-    const userId = decoded.id;  // Extract user ID from token
-
-    // Fetch user from Firestore using the userId
-    const userSnapshot = await db.collection("users").doc(userId).get();
-    if (!userSnapshot.exists) {
-      return res.status(404).json({ message: "User not found." });
-    }
-
-    // Hash the new password
-    const hashedPassword = await bcrypt.hash(newPassword, 10);
-
-    // Update the user's password in Firestore
-    await db.collection("users").doc(userId).update({ password: hashedPassword });
-
-    res.status(200).json({ message: "Password has been reset successfully." });
-  } catch (error) {
-    console.error("Error during reset password:", error.message);
-    res.status(500).json({ message: "Internal server error", error: error.message });
-  }
-});
 
 module.exports = router;
