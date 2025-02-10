@@ -109,7 +109,7 @@ router
       );
 
       // Make sure this is your actual domain for production (adjust for your environment)
-      const verificationLink = `http://192.168.68.116:3000/api/user/signup?token=${verificationToken}`;
+      const verificationLink = `http://98.70.35.28:3000/api/user/signup?token=${verificationToken}`;
       console.log("Verification link:", verificationLink); // Debugging line to ensure the link is correct
 
       // Set up the email with HTML content
